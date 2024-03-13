@@ -2,7 +2,7 @@ public class palindrome
 {
     public static void main(String[] args) 
     {
-        String name = "jathin";
+        String name = "abcdcba";
         System.out.println(ispali(name));
     }  
     
