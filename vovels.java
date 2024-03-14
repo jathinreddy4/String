@@ -1,3 +1,6 @@
+//divide a string into 2 halfs and check if both halfs have same no of vowels.
+
+
 import java.util.*;
 public class vovels 
 {
