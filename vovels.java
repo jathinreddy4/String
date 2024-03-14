@@ -7,6 +7,7 @@ public class vovels
     public static void main(String[] args) 
     {
         String s = "jathin";  
+        System.out.println(s.length()/2);
         isalike(s);  
     }    
 
@@ -20,8 +21,8 @@ public class vovels
         ch.add('o');
         ch.add('u');
         
-        String a = s.substring(0, s.length()/2);
-        String b = s.substring(s.length()/2);
+        String a = s.substring(0, 2);
+        String b = s.substring(2);
         int counta = 0;
         int countb = 0;
 
