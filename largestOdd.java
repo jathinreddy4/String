@@ -23,3 +23,9 @@ public class largestOdd
     }
 
 }
+// concept of substring
+/* 
+ jathin 
+ if you want print jat the index will start@j i.e(0),
+ but for t the index will be one forward i.e (3), but the actual index of t is 2.
+*/
