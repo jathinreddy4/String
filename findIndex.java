@@ -5,7 +5,7 @@ public class findIndex
     public static void main(String[]args)
     {
         String s1 = "jathin";
-        String s2 = "jai";
+        String s2 = "jat";
         System.out.println(check(s1, s2));
     }  
     
